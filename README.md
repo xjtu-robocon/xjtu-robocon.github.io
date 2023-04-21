@@ -1,1 +1,6 @@
-# xjtu-robocon.github.io
+# 这是什么？
+这是西安交通大学robocon机器人队学生自己开发的官方网站，用来展示和宣传xjtu-robocon
+# 这有什么？
+这有xjtu-robocon队伍的光辉历史，还有我们做出的贡献
+# 注意事项
+该网站为现阶段xjtu-robocon官方网站，需要共同维护，请勿随意修改
